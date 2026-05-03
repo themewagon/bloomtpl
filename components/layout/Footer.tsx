@@ -32,10 +32,10 @@ export default function Footer() {
     {
       title: "Shop",
       links: [
-        { href: "/shop", label: "All Products" },
-        { href: "/shop", label: "New Arrivals" },
-        { href: "/shop", label: "Sale" },
-        { href: "/shop", label: "Featured" },
+        { href: "/#!", label: "All Products" },
+        { href: "/#!", label: "New Arrivals" },
+        { href: "/#!", label: "Sale" },
+        { href: "/#!", label: "Featured" },
       ],
     },
     {
@@ -50,7 +50,7 @@ export default function Footer() {
     {
       title: "Company",
       links: [
-        { href: "/about", label: "About Us" },
+        { href: "/#!", label: "About Us" },
         { href: "/", label: "Careers" },
         { href: "/", label: "Blog" },
         { href: "/", label: "Press" },
