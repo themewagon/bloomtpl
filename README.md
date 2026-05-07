@@ -5,7 +5,7 @@
  - [Demo](https://themewagon.github.io/bloomtpl/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/bloomtpl/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/bloomshop/)
 
 ## Getting Started
 
